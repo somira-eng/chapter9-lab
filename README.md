@@ -10,3 +10,5 @@ To practice shell commands, Git initialization, status checking, staging, and co
 
 ## Reflection
 Git helps track changes without creating many duplicate filenames. It is very usefull.
+
+Updated command from step 4 of the final exercice.
